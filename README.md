@@ -1,3 +1,11 @@
+# I did not created this
+
+# I made this fork to try some stuff
+
+# For Credits / Contributors etc please refer to the original repo
+
+
+
 # Impostor
 
 [![Discord](https://img.shields.io/badge/Discord-chat-blue?style=flat-square)](https://discord.gg/Mk3w6Tb)
